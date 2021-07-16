@@ -1,1 +1,1 @@
-# Aplicaci-n-meteorol-gica
+# Aplicación meteorológica utilizando el api metaweather.
