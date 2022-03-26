@@ -313,7 +313,7 @@
       getUbication() {
         // Hallar la ubicación actual
         axios
-          .get(`https://geoip-db.com/json/`)
+          .get(`https://freegeoip.app/json/`)
           .then((response) => {
             let data = response.data;
             this.datos.latt = data.latitude;
